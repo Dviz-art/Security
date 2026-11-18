@@ -40,8 +40,9 @@ Cada requisito se evalúa con dos criterios:
 | RNF-01 | Tiempo de envío | Alta | Alta | **Must** | Cada segundo cuenta en una situación de riesgo. |
 | RNF-02 | Tiempo de notificación | Alta | Media | **Should** | Depende del sistema operativo, por lo que es una meta y no una garantía. |
 | RNF-03 | Rapidez de acceso | Alta | Media | **Must** | Es la promesa central de la propuesta. |
-| RNF-06 | Uso de la ubicación | Alta | Alta | **Must** | Protege la privacidad y es fácil de cumplir al no haber rastreo. |
-| RNF-08 | Compatibilidad de plataformas | Media | Media | **Should** | Compilar para iOS exige una computadora Mac; si el tiempo no alcanza, se prioriza Android. |
+| RNF-04 | Interfaz| Alta | Alta | **Must** | Esencial para ofrecer al usuario un rápido y eficaz apoyo al momento de sentirse en peligro. |
+| RNF-05 | Uso de la ubicación | Alta | Alta | **Must** | Protege la privacidad y es fácil de cumplir al no haber rastreo. |
+| RNF-06 | Compatibilidad de plataformas | Media | Media | **Must** | Asegura que cualquier usuario pueda utilizar la app desde cualquier dispositivo móvil, así acceder a su servicio.  |
 
 ## Resumen
 
