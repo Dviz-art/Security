@@ -62,18 +62,7 @@ La mayoría de los requisitos son Must porque la lista ya se redujo al mínimo n
 | Check-in de seguridad | Ya viene integrado en iPhone y Android, y requiere servidor de temporización y ubicación en segundo plano. |
 | Aviso por SMS | En iOS una app no puede enviarlo por sí sola, lo que rompe el aviso rápido y discreto. |
 | Funciones sin conexión | La aplicación está definida para funcionar solo con internet. |
-| WhatsApp como canal de avisos | Su API oficial requiere un número de empresa, plantillas aprobadas por Meta y un costo por mensaje. |
 | Mensajes adicionales | Mantener un solo mensaje conserva el aviso en uno o dos toques. |
 | Ubicación en tiempo real | Agrega rastreo continuo y mayor complejidad de privacidad. |
-| Reloj inteligente | Requiere desarrollo aparte para Wear OS y watchOS. |
-| Ficha médica | No es parte del objetivo principal. |
 | Inicio de sesión con cuentas externas | El registro con correo y contraseña ya cubre la necesidad. |
-| Eliminación de la cuenta | Se requiere antes de publicar en la App Store, pero no para la primera versión académica. |
 
-## Orden de construcción sugerido
-
-1. **Cuenta:** RF-01, RF-02, RF-03.
-2. **Contactos:** RF-04, RF-05, RF-06.
-3. **Aviso:** RF-08, RF-09, RF-10, RF-11.
-4. **Recepción:** RF-12, RF-13.
-5. **Complementos:** RF-07 y RF-14.
