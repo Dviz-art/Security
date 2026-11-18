@@ -40,10 +40,7 @@ Cada requisito se evalúa con dos criterios:
 | RNF-01 | Tiempo de envío | Alta | Alta | **Must** | Cada segundo cuenta en una situación de riesgo. |
 | RNF-02 | Tiempo de notificación | Alta | Media | **Should** | Depende del sistema operativo, por lo que es una meta y no una garantía. |
 | RNF-03 | Rapidez de acceso | Alta | Media | **Must** | Es la promesa central de la propuesta. |
-| RNF-04 | Tamaño de botones | Media | Alta | **Should** | Reduce errores de toque, pero se puede ajustar después de la primera versión. |
-| RNF-05 | Resultado del envío | Alta | Alta | **Must** | El usuario no debe creer que pidió ayuda cuando el aviso falló. |
 | RNF-06 | Uso de la ubicación | Alta | Alta | **Must** | Protege la privacidad y es fácil de cumplir al no haber rastreo. |
-| RNF-07 | Comunicación segura | Alta | Alta | **Must** | Los servicios actuales ya cifran las comunicaciones por defecto. |
 | RNF-08 | Compatibilidad de plataformas | Media | Media | **Should** | Compilar para iOS exige una computadora Mac; si el tiempo no alcanza, se prioriza Android. |
 
 ## Resumen
