@@ -20,7 +20,9 @@
 ### El sistema debe enviar a todos los contactos aceptados el mensaje de emergencia y la ubicación actual. Si no hay contactos aceptados o no hay internet, debe informarlo y no iniciar el envío.
 # RF-11.Confirmación discreta. 
 ### Un envío exitoso no debe emitir sonido ni mostrar textos de alerta, y se confirma con una vibración de máximo 1 segundo; un envío fallido se indica con un mensaje visible.
-# RF-12. Detalle del aviso. 
+# RF-12. Notificación al contacto. 
+### El sistema debe enviar al contacto una notificación de prioridad alta cuando reciba un aviso.
+# RF-13. Detalle del aviso. 
 ### Al abrir la notificación, la app debe mostrar el nombre de quien emitió el aviso, la fecha y hora, el mensaje y la ubicación en un mapa.
-# RF-13. Botón de emergencias. 
+# RF-14. Botón de emergencias. 
 ### El sistema debe ofrecer, en la app y en el widget, un botón que abra el marcador del teléfono con el 911 escrito, sin iniciar la llamada.
