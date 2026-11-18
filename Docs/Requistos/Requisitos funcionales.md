@@ -3,7 +3,7 @@
 #	RF-02. Inicio y cierre de sesión. 
 ### El sistema debe permitir iniciar sesión, mantenerla abierta hasta que el usuario la cierre y recuperar la contraseña por correo. Antes de cerrar sesión, debe advertir que el dispositivo dejará de recibir avisos.
 # RF-03. Permisos del dispositivo. 
-### El sistema debe solicitar los permisos de ubicación y notificaciones, explicando para qué se usa cada uno, además de advertir que el dispositivo dejará de recibir avisos.
+### El sistema debe solicitar los permisos de ubicación y notificaciones, explicando para qué se usa cada uno, además de advertir que el dispositivo dejará de recibir avisos si no hay una sesión iniciada.
 # RF-04. Invitación de contactos. 
 ### El sistema debe permitir generar una invitación de un solo uso, con enlace y código, válida durante 24 horas.
 # RF-05. Respuesta a la invitación. 
