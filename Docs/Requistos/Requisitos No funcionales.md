@@ -5,6 +5,6 @@
 # RNF-03. Rapidez de acceso. 
 ### Desde el widget, el aviso quedará enviado y el marcador con el 911 quedará abierto con máximo 2 toques.
 # RNF-04. Uso de la ubicación. 
-La ubicación se obtendrá solo al enviar un aviso, sin rastreo continuo.
+### La ubicación se obtendrá solo al enviar un aviso, sin rastreo continuo.
 # RNF-05. Compatibilidad de plataformas. 
-La app ofrecerá las mismas funciones en Android 10 o superior e iOS 15 o superior.
+### La app ofrecerá las mismas funciones en Android 10 o superior e iOS 15 o superior.
