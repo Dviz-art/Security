@@ -1,6 +1,4 @@
-# 06. Priorización de requisitos
-
-> **Estado:** Borrador · Primera entrega
+ Priorización de requisitos
 
 ## Método MoSCoW 
 
